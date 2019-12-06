@@ -1,0 +1,11 @@
+1. What are the results for 21 & 1109?
+
+Ans: The answer is 1 and it took 60 steps to calculate
+
+2. What are the results for 5823119 & 381753?
+
+Ans: The answer is 1 and it took 69 steps to calculate
+
+3. What are the results for 15411 & 7816?
+
+Ans: The answer is 1 and it took 50 steps to calculate
